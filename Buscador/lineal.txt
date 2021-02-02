@@ -1,0 +1,2 @@
+El arreglo de elementos es: 1,2,3,4,5
+El numero 4 Esta en la posicion 3
